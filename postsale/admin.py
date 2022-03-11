@@ -4,7 +4,7 @@ from import_export.admin import ImportExportModelAdmin
 from .resources import PostSaleResources
 
 
-# Register your models here.
+# Register your models here..
 
 class PostSaleAdmin(ImportExportModelAdmin):
     resource_class = PostSaleResources
