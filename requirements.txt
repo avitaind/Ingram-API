@@ -23,7 +23,7 @@ odfpy==1.4.1
 openpyxl==3.0.4
 packaging==20.4
 Pillow==9.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyparsing==2.4.7
 pytz==2020.1
 PyYAML==5.3.1
